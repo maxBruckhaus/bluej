@@ -1,4 +1,4 @@
-/*  Maxwell Bruckhaus, Period 3, January 15th, 2014
+/*  Maxwell Bruckhaus, Period 3, January 18th, 2015
  *  This program took me approximately 3.5 hours to
  *  complete in total. On thursday when this homework
  *  was initially assigned I was tired from my other
@@ -20,10 +20,11 @@ public class StoreDriverMBruckhausPeriod3 {
     public static void clearScreen(){
         System.out.print('\u000C');
     }
+
     public static void main(String[] args) throws IOException {
         clearScreen();
         String path = "/Users/MAXIMILLION/Documents/dev/bluej/src/";
-        Store s = new Store(path+"file50.txt");
+        Store s = new Store(path + "file50.txt");
         s.sort();
         s.displayStore();
     }
