@@ -1,6 +1,17 @@
 /*  Maxwell Bruckhaus, Period 3, January 21st, 2015
  *  This program took me approximately 4 hours to
- *  complete in total.
+ *  complete in total. Although this program took
+ *  a lot of time to finish, I really enjoyed
+ *  working through it. My dad sat through
+ *  the homework with me and helped me whenever
+ *  I got stuck, but I felt really proud at the end
+ *  once everything was falling into place. Despite
+ *  the long time, there wasn't really any places
+ *  where I was stuck for a long time. There was one
+ *  silly mistake where I needed to close a class
+ *  with a bracket but forgot which took me 20
+ *  minutes to figure out but the rest of the
+ *  lab went pretty smoothly.
  */
 
 import java.io.BufferedReader;
