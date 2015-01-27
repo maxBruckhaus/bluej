@@ -1,3 +1,16 @@
+/*  Maxwell Bruckhaus, Period 3, January 25th, 2015
+ *  This program took me approximately 30 minutes to
+ *  complete in total. I thought that it was funny
+ *  how we used Old MacDonald's farm as an example
+ *  for a lab. I enjoyed this lab because it wasn't
+ *  very difficult at all for me, but it still
+ *  required me to use my brain to think of a
+ *  smart solution while understanding everything
+ *  that I was coding. The hardest part for me
+ *  was making the second chick constructor.
+ *  Besides that, the lab wasn't too bad at all.
+ */
+
 import java.util.ArrayList;
 import java.util.Random;
 
