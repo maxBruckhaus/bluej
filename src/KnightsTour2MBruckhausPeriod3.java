@@ -29,8 +29,8 @@ public class KnightsTour2MBruckhausPeriod3 {
 
     public static void main(String[] args) {
         KnightsTour2MBruckhausPeriod3 knight = new KnightsTour2MBruckhausPeriod3();
-        knight.solve();
-//        knight.showNeighbors();
+        //knight.solve();
+        knight.showNeighbors();
     }
 
     public KnightsTour2MBruckhausPeriod3() {
