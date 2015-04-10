@@ -1,4 +1,10 @@
 /*  Maxwell Bruckhaus, Period 3, February 4th, 2015
+ *  I turned the program in at 12:01 because I realized
+ *  I forgot to name my file with my name and period.
+ *  I wasn't able to change the name so I panicked and
+ *  turned it in how it was a minute too late and now
+ *  I am turning it in again with the name fixed.
+ *
  *  This program took me approximately 1.5 hours to
  *  complete in total. When I first received the
  *  assignment I was really lost; I didn't know
